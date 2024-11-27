@@ -1,0 +1,14 @@
+[general]
+name=Accuracy Assessment Assistant Plugin
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+author=Alexander Ermilin
+email=alexanderermilin10@gmail.com
+description=Плагин для создания и объединения точечных слоёв, а также оценки точности классификации.
+about=Плагин для создания и объединения точечных слоёв. Встроенные функции по оценки точности классификации и рассчёту статистики позволяют использовать данный модуль для упрощения работы с классификацией аэрофотоснимков. 
+version=1.0.9 [STABBLE]
+icon=Icon.png
+category=Analysis
+tags=Генерация точек, Объединение слоёв, Оценка точности классификации
+
+
